@@ -100,7 +100,7 @@ section .card:hover {
 .form input, .form textarea {
     display: flex;
     width: 34.8rem;
-    padding: 1.2rem 1.6rem 1.2rem 1.4rem;
+    padding: 1.2rem 4rem 1.4rem;
     align-items: center;
     gap: 1.2rem;
     border-radius: 1.6rem;
